@@ -1,10 +1,10 @@
 .landing {
     text-align: center;
-    padding: 30px;
+    padding: 45px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 40px;
     background-image:url("/./assets/cloudsImage.png");
     color:aliceblue;
-    background-repeat: repeat-x;
-    max-width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
